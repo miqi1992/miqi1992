@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**yuruguo/yuruguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**miqi1992/miqi1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![yuruguo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuruguo&include_all_commits=true&count_private=true&theme=cobalt)
+![miqi1992's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqi1992&include_all_commits=true&count_private=true&theme=cobalt)
